@@ -42,7 +42,7 @@ function createPopup() {
   // Body
   const body = document.createElement('div');
   body.classList.add('popup-body');
-  body.innerText = 'Anh xin lỗi em nhiều';
+  body.innerText = 'Chúc em một ngày tốt lành, thương em';
 
   popup.appendChild(header);
   popup.appendChild(body);
